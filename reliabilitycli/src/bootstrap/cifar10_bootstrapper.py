@@ -1,0 +1,3 @@
+from reliabilitycli.src.bootstrap import ClassificationBootstrapper
+
+Cifar10Bootstrapper = ClassificationBootstrapper
